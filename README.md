@@ -1,3 +1,5 @@
+![App Store Connect API v2.3](https://img.shields.io/badge/App%20Store%20Connect%20API-v2.3-blue)
+
 # History of App Store Connect API Specs
 
 - See changes between versions
