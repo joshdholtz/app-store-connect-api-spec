@@ -2,6 +2,8 @@
 
 # History of App Store Connect API Specs
 
+Copies of the [App Store Connect API OpenAPI Spec](https://developer.apple.com/sample-code/app-store-connect/app-store-connect-openapi-specification.zip) found on [App Store Connect documentation](https://developer.apple.com/documentation/appstoreconnectapi)
+
 - 👀 See changes between versions
   - Look at versions back to 1.2
   - View pull requests for the diffs on `latest.json`
